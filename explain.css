@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+}
+nav{
+    background-color: blue;
+    padding: 0%;
+    padding: 16px;
+    text-align: center;
+    }
+.top-baar{
+    padding: 20px;
+    font-size: large;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    }
+
+#img{
+        width: 100%;
+       
+    }

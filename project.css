@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    background-color: grey;
+}
+    nav{
+    background-color: blue;
+    padding: 0%;
+    padding: 16px;
+    text-align: center;
+}
+.top-baar{
+    padding: 20px;
+    font-size: large;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+   
+    
+    
+}
+
+img{
+
+    width: 100%;
+
+    
+}
+
+.div{
+    width: 300px;
+    height: 340px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 90px;
+   
+}
+.img{
+    width: 300px;
+    height: 300px;
+       
+}
+
+.bottom{
+    text-align: center;
+    
+}
+nav span a:hover{
+    color: black;
+}

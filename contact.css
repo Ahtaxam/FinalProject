@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    background-color: gray;
+}
+nav{
+    background-color: blue;
+    padding: 0%;
+    padding: 16px;
+    text-align: center;
+}
+.top-baar{
+    padding: 20px;
+    font-size: large;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+
+
+#form{
+background-color: white;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+height: 250px;
+border-radius: 10px;
+
+
+}
+.input{
+padding-top: 10px;
+padding-left: 10px;
+margin: 10px;
+width: 80%;
+}
+.btn{
+margin-top: 15px;
+margin-left: 35%;
+width: 25%;
+height: 15%;
+background-color: blue;
+border-radius: 5px;
+}
+div{
+margin-left: 25px;
+
+}
+.footer{
+    background-color: black;
+     padding: 50px; 
+     margin-top: 80px; 
+     margin-left: 0%;
+}
+.mini-footer{
+    color: blue;
+}
